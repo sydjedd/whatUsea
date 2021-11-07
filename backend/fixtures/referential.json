@@ -1,0 +1,93 @@
+[
+  {
+    "model": "referential.quality",
+    "pk": 1,
+    "fields": {
+      "libelle": "suspicion"
+    }
+  },
+  {
+    "model": "referential.quality",
+    "pk": 2,
+    "fields": {
+      "libelle": "probable"
+    }
+  },
+  {
+    "model": "referential.quality",
+    "pk": 3,
+    "fields": {
+      "libelle": "vérifié"
+    }
+  },
+  {
+    "model": "referential.family",
+    "pk": 1,
+    "fields": {
+      "libelle": "mammifère"
+    }
+  },
+  {
+    "model": "referential.family",
+    "pk": 2,
+    "fields": {
+      "libelle": "poisson"
+    }
+  },
+  {
+    "model": "referential.species",
+    "pk": 1,
+    "fields": {
+      "libelle": "baleine à bosse",
+      "family": 1
+    }
+  },
+  {
+    "model": "referential.species",
+    "pk": 2,
+    "fields": {
+      "libelle": "dauphin tursiope",
+      "family": 1
+    }
+  },
+  {
+    "model": "referential.species",
+    "pk": 3,
+    "fields": {
+      "libelle": "dugong",
+      "family": 1
+    }
+  },
+  {
+    "model": "referential.species",
+    "pk": 4,
+    "fields": {
+      "libelle": "cachalot",
+      "family": 1
+    }
+  },
+  {
+    "model": "referential.species",
+    "pk": 5,
+    "fields": {
+      "libelle": "raie manta",
+      "family": 2
+    }
+  },
+  {
+    "model": "referential.species",
+    "pk": 6,
+    "fields": {
+      "libelle": "thon à dent de chien",
+      "family": 2
+    }
+  },
+  {
+    "model": "referential.species",
+    "pk": 7,
+    "fields": {
+      "libelle": "thazard",
+      "family": 2
+    }
+  }
+]

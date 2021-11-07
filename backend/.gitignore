@@ -1,0 +1,23 @@
+.DS_Store
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# local env files
+.env*
+.env.local
+.env.*.local
+
+
+# Djongo files
+**/migrations
+**/__pycache__
+venv/
+static/
+*.sqlite3

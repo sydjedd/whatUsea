@@ -1,0 +1,197 @@
+[
+  {
+    "model": "observation.observation",
+    "pk": 1,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555a3a5001f",
+      "ilot_distance": 324,
+      "date_time": "2022-06-21T00:02:51",
+      "quality": 3,
+      "species": 4,
+      "mammel_apnea_duration": 986,
+      "animal_length": 1720,
+      "fish_single": null,
+      "fish_number": null
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 2,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555b1cc00c3",
+      "ilot_distance": 403,
+      "date_time": "2020-12-12T00:22:07",
+      "quality": 1,
+      "species": 5,
+      "mammel_apnea_duration": null,
+      "animal_length": null,
+      "fish_single": false,
+      "fish_number": 233
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 3,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555b1cc00c3",
+      "ilot_distance": 424,
+      "date_time": "2022-10-26T10:31:17",
+      "quality": 2,
+      "species": 6,
+      "mammel_apnea_duration": null,
+      "animal_length": 1307,
+      "fish_single": true,
+      "fish_number": null
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 4,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555a5250031",
+      "ilot_distance": 518,
+      "date_time": "2022-10-16T19:27:02",
+      "quality": 1,
+      "species": 2,
+      "mammel_apnea_duration": 503,
+      "animal_length": 602,
+      "fish_single": null,
+      "fish_number": null
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 5,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555a3a5001f",
+      "ilot_distance": 1320,
+      "date_time": "2022-02-21T22:48:44",
+      "quality": 2,
+      "species": 7,
+      "mammel_apnea_duration": null,
+      "animal_length": null,
+      "fish_single": false,
+      "fish_number": 50
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 6,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555a5250031",
+      "ilot_distance": 400,
+      "date_time": "2022-10-26T10:31:17",
+      "quality": 3,
+      "species": 1,
+      "mammel_apnea_duration": 100,
+      "animal_length": 500,
+      "fish_single": null,
+      "fish_number": null
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 17,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555a5250031",
+      "ilot_distance": 356,
+      "date_time": "2022-02-21T22:48:44",
+      "quality": 2,
+      "species": 3,
+      "mammel_apnea_duration": 200,
+      "animal_length": 30,
+      "fish_single": null,
+      "fish_number": null
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 19,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555a5250031",
+      "ilot_distance": 356,
+      "date_time": "2022-02-21T22:48:44",
+      "quality": 2,
+      "species": 3,
+      "mammel_apnea_duration": 200,
+      "animal_length": 30,
+      "fish_single": null,
+      "fish_number": null
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 20,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555a5250031",
+      "ilot_distance": 356,
+      "date_time": "2022-02-21T22:48:44",
+      "quality": 2,
+      "species": 3,
+      "mammel_apnea_duration": 200,
+      "animal_length": 30,
+      "fish_single": null,
+      "fish_number": null
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 22,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555a5250031",
+      "ilot_distance": 356,
+      "date_time": "2022-02-21T22:48:44",
+      "quality": 2,
+      "species": 3,
+      "mammel_apnea_duration": 200,
+      "animal_length": 30,
+      "fish_single": null,
+      "fish_number": null
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 23,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555a5250031",
+      "ilot_distance": 356,
+      "date_time": "2022-02-21T22:48:44",
+      "quality": 2,
+      "species": 3,
+      "mammel_apnea_duration": 200,
+      "animal_length": 30,
+      "fish_single": null,
+      "fish_number": null
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 24,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555a5250031",
+      "ilot_distance": 356,
+      "date_time": "2022-02-21T22:48:44",
+      "quality": 2,
+      "species": 3,
+      "mammel_apnea_duration": 200,
+      "animal_length": 30,
+      "fish_single": null,
+      "fish_number": null
+    }
+  },
+  {
+    "model": "observation.observation",
+    "pk": 25,
+    "fields": {
+      "ilot": "ff80818167a5556c0167a555a5250031",
+      "ilot_distance": 356,
+      "date_time": "2022-02-21T22:48:44",
+      "quality": 2,
+      "species": 3,
+      "mammel_apnea_duration": 200,
+      "animal_length": 30,
+      "fish_single": null,
+      "fish_number": null
+    }
+  }
+]
